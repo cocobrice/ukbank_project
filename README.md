@@ -21,7 +21,7 @@ As part of a project for Udacity Data Science nanodegree I have completed a caps
 * requests
 * io
 
-### **Data** - Provided by Appen https://appen.com/
+### **Data**
 |           Description                      |                    Source                      |
 |--------------------------------------------|------------------------------------------------|
 | Financial data for 5 UK banks (Standard Chartered, NatWest, Barclays, Lloyds and HSBC   | https://finance.yahoo.com/|
