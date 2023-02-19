@@ -27,6 +27,8 @@ As part of a project for Udacity Data Science nanodegree I have completed a caps
 | Financial data for 5 UK banks (Standard Chartered, NatWest, Barclays, Lloyds and HSBC)   | https://finance.yahoo.com/|
 | UK 10 year nominal forward rate curve      | https://www.bankofengland.co.uk/boeapps/database/default.asp/|
 
+The data.csv within this repo is the combined dataset formulated within the analysis workbook also provided. 
+
 ### **Analysis**
 |   Notebook      | Description |
 |---|---|
