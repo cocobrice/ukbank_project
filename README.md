@@ -35,3 +35,4 @@ The data.csv within this repo is the combined dataset formulated within the anal
 | investment_trading_capstone_project_main.ipynb | Notebook where data is downloaded and investigated before 3 seperate models are applied |
 
 ### **Blog**:
+https://medium.com/@cocobrice3/a-look-at-the-stock-prices-of-the-uk-banking-top-5-f236972db7a7
