@@ -47,4 +47,6 @@ https://www.learndatasci.com/tutorials/python-finance-part-yahoo-finance-api-pan
 
 https://www.datacareer.co.uk/blog/bank-of-england-s-statistical-interactive-database-iadb-using-python/
 
+https://machinelearningmastery.com/tune-lstm-hyperparameters-keras-time-series-forecasting/
+
 This project was completed as part of the Udacity Data Scientist Nanodegree program.
