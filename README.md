@@ -42,7 +42,9 @@ https://medium.com/@cocobrice3/a-look-at-the-stock-prices-of-the-uk-banking-top-
 Many thanks to those data scientists who published the material linked below.
 
 https://towardsdatascience.com/free-stock-data-for-python-using-yahoo-finance-api-9dafd96cad2e
+
 https://www.learndatasci.com/tutorials/python-finance-part-yahoo-finance-api-pandas-matplotlib/
+
 https://www.datacareer.co.uk/blog/bank-of-england-s-statistical-interactive-database-iadb-using-python/
 
 This project was completed as part of the Udacity Data Scientist Nanodegree program.
